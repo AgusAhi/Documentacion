@@ -6,12 +6,20 @@
 
 public class Card {
     /**
-     * Constantes de las cartas
-     * {@value #OROS} {@value #COPAS} {@value #ESPADAS} {@value #BASTOS}
+     * Constantes oros {@value}
      */
     public static final int OROS = 1;
+    /**
+     * Constantes copas {@value}
+     */
     public static final int COPAS = 2;
+    /**
+     * Constantes espadas {@value}
+     */
     public static final int ESPADAS = 3;
+    /**
+     * Constantes bastos {@value}
+     */
     public static final int BASTOS = 4;
 
     //Atributos
